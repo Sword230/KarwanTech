@@ -8,7 +8,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="">
 	<meta name="author" content="">
-	<title>Akshara Portfolio - Bootstrap Template</title>
+	<title>KarwanTech Index</title>
 	<!-- Bootstrap Core CSS -->
 	<link href="css/bootstrap.min.css" rel="stylesheet">
 	<!-- SmartMenus jQuery Bootstrap Addon CSS -->
@@ -42,7 +42,7 @@
 					<span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span><span
 						class="icon-bar"></span><span class="icon-bar"></span>
 				</button>
-				<a class="navbar-brand" href="#"><i class="fa fa-diamond"></i>Akshara</a>
+				<a class="navbar-brand" href="#"><i class="fa fa-diamond"></i>KarwanTech</a>
 			</div>
 			<div class="navbar-collapse collapse">
 				<!-- Left nav -->
@@ -86,9 +86,9 @@
 					Width="100px" Height="50px" /></li>
 			<li data-target='#carousel-example-generic' data-slide-to='1'>
 				<asp:Image ID="Image2" runat="server" ImageUrl="~/img/13.jpg" Width="100px" Height="50px" /></li>
-			</li>
-			<li data-target='#carousel-example-generic' data-slide-to='2'>
-				<asp:Image ID="Image3" runat="server" ImageUrl="~/img/14.jpg" Width="100px" Height="50px" /></li></li>
+			
+		    <li data-target='#carousel-example-generic' data-slide-to='2'>
+				<asp:Image ID="Image3" runat="server" ImageUrl="~/img/14.jpg" Width="100px" Height="50px" /></li>
 		</ol>
 		<!-- Wrapper for slides -->
 		<div class="carousel-inner">

@@ -243,7 +243,7 @@
 						</div>
 
 						<div class="col-md-3 col-sm-12 col-md-pull-9 animated wow fadeInUp" data-wow-delay="0.8s">
-							<div class="fh5co-footer-logo"><a href="index.html">Akshara</a></div>
+							<div class="fh5co-footer-logo"><a href="index.aspx">KarwanTech</a></div>
 							<p class="fh5co-copyright"><small>&copy; 2015. All Rights Reserved. <br>	by <a href="http://aboostrap.com/" target="_blank">aspxtemplates.com</a> Images: <a href="http://aspxtemplates.com/" target="_blank">Pexels</a></small></p>
 							<p class="fh5co-social-icons">
 								<a href="#"><i class="fa fa-twitter"></i></a>
